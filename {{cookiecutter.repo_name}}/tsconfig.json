@@ -13,6 +13,7 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "esModuleInterop": true,
-    "module": "commonjs"
+    "module": "commonjs",
+    "jsx": "react"
   }
 }
